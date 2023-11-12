@@ -1,0 +1,6 @@
+Creating a StarShip
+Engine is set in high mode.
+getStarShipName: #1 StarShip
+getStarShipColor: RED
+getEngineStatus: HIGH
+Close logger file.
