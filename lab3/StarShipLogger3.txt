@@ -1,0 +1,6 @@
+Creating a StarShip
+getStarShipColor: YELLOW
+Engine is set in high mode.
+getEngineStatus: HIGH
+Engine is turned off.
+Close logger file.
